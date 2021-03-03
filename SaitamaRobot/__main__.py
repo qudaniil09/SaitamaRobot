@@ -230,7 +230,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🚑 Support Group",
-                                url=f"https://t.me/megurisupportgc}",
+                                url=f"https://t.me/megurisupportgc",
                             ),
                             InlineKeyboardButton(
                                 text="Channel Owner",
