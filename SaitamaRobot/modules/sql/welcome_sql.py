@@ -10,15 +10,16 @@ DEFAULT_WELCOME = "Hey {first}, how are you?"
 DEFAULT_GOODBYE = "Nice knowing ya!"
 
 DEFAULT_WELCOME_MESSAGES = [
-    "{first} is here!",  # Discord welcome messages copied
-    "Ready player {first}",
-    "Genos, {first} is here.",
+    "{first} Telah Tiba !",  # Discord welcome messages copied
+    "Sudah Siap {first}?",
+    "Genos, {first} Sudah Tiba.",
     "A wild {first} appeared.",
     "{first} came in like a Lion!",
     "{first} has joined your party.",
     "{first} just joined. Can I get a heal?",
     "{first} just joined the chat - asdgfhak!",
     "{first} just joined. Everyone, look busy!",
+    "Hai {first} , Selamat datang. Peluk hangat dari Meguri ｡◕ ‿ ◕｡ ",
     "Welcome, {first}. Stay awhile and listen.",
     "Welcome, {first}. We were expecting you ( ͡° ͜ʖ ͡°)",
     "Welcome, {first}. We hope you brought pizza.",
